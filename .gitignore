@@ -1,0 +1,7 @@
+/.vscode
+/node_modules
+/app/scss
+/app/js/main.js
+gulpfile.js
+package-lock.json
+package.json
