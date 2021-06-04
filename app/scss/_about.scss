@@ -1,0 +1,30 @@
+.about {
+    display: none;
+    height: calc(100vh - 50px);
+    &__wrapper {
+        height: 100%;
+        padding: 10px 10px;
+        max-width: 500px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    &__info {
+        font-size: 18px;
+        font-weight: 300;
+    }
+    &__author {
+        margin-top: 40px;
+        text-decoration: wavy;
+        font-size: 16px;
+        a {
+            color: rgb(154, 76, 228);
+            font-weight: 700;
+        }
+    }
+    &_active {
+        display: block;
+    }
+}

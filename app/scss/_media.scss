@@ -1,0 +1,107 @@
+@media (min-width: 360px) {
+    body {
+        .app {
+            &__problem {
+                font-size: 38px;
+            }
+            input {
+                font-size: 38px;
+            }
+        }
+    }
+}
+
+@media (min-width: 400px) {
+    body {
+        .app {
+            &__problem {
+                font-size: 44px;
+            }
+            input {
+                font-size: 44px;
+            }
+        }
+    }
+}
+
+@media (min-width: 440px) {
+    body {
+        .app {
+            &__problem {
+                font-size: 48px;
+            }
+            input {
+                font-size: 48px;
+            }
+        }
+    }
+}
+
+@media (min-width: 480px) {
+    body {
+        .app {
+            &__problem {
+                font-size: 52px;
+            }
+            input {
+                font-size: 52px;
+            }
+            &__stats {
+                font-size: 20px;
+            }
+        }
+    }
+}
+
+@media (min-width: 480px) {
+    body {
+        .app {
+            &__problem {
+                font-size: 52px;
+            }
+            input {
+                width: 115px;
+                font-size: 52px;
+            }
+            &__stats {
+                font-size: 20px;
+            }
+        }
+    }
+}
+
+@media (min-width: 900px) {
+    body {
+        .app {
+            max-width: 700px;
+            &__problem {
+                font-size: 52px;
+            }
+            input {
+                width: 115px;
+                font-size: 52px;
+            }
+            &__stats {
+                font-size: 20px;
+            }
+        }
+    }
+}
+
+@media (min-width: 1200px) {
+    body {
+        .app {
+            max-width: 600px;
+            &__problem {
+                font-size: 60px;
+            }
+            input {
+                width: 130px;
+                font-size: 60px;
+            }
+            &__stats {
+                font-size: 20px;
+            }
+        }
+    }
+}
