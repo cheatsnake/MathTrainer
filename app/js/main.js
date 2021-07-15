@@ -195,6 +195,13 @@ function lightMode() {
     input.style.color = '#000';
 }
 
+function darkMode() {
+    document.body.style.background = '#282c34';
+    document.body.style.color = '#fff';
+    input.style.background = '#282c34';
+    input.style.color = '#fff';
+}
+
 update();
 
 btns.forEach((btn) => {
@@ -208,7 +215,7 @@ delBtn.addEventListener('click', del);
 okBtn.addEventListener('click', submit);
 
 lightBtn.addEventListener('click', lightMode);
-darkBtn.addEventListener('click', () => window.location.reload());
+darkBtn.addEventListener('click', darkMode);
 
 //Key binds for PC version
 document.addEventListener('keydown', function(event) {
