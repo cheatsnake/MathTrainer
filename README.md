@@ -1,4 +1,4 @@
-# MathTrainer
+# Math Trainer
 
 [![N|Solid](https://i.ibb.co/PxTMPJ9/btn.png)](https://yourice.github.io/apps/mathTrainer)
 
