@@ -1,6 +1,6 @@
 # Math Trainer
 
-[![N|Solid](https://i.ibb.co/PxTMPJ9/btn.png)](https://yourice.github.io/apps/mathTrainer)
+[![N|Solid](https://i.ibb.co/PxTMPJ9/btn.png)](https://cheatsnake.github.io/apps/mathTrainer)
 
 An application for training oral counting. The application has 3 difficulty levels with basic mathematical operations: addition, subtraction, multiplication, division.
 
